@@ -10,4 +10,4 @@ Food recipes app built using flutter.
 [Afterglow](https://dribbble.com/shots/6950787-Mobile-App-Food-Recipes) 
 
 ## Social Media Link
-[Follow me on instagram](https://www.instagram.com/watery_desert/reels/)
+[Follow me on instagram](https://www.instagram.com/watery_desert)
